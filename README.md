@@ -1,2 +1,9 @@
-<p>Created date-extension to extend <em>date</em> class in Rails application (it can be used in any ruby application)</p>
-<p>Look at <em>lib/core_extensions/date.rb</em>, it extends existing date class and provides couple of methods e.g. 1) <em>next_wednesday</em> from current date and 2) <em>wednesday<em>of</em>week<em>in</em>year(week, year)</em> for nth week in mth year</p>
+Created date-extension to extend date class in Rails application (it can be used in any ruby application)
+
+Look at 
+		lib/core_extensions/date.rb</em>
+		
+It extends existing date class and provides couple of methods
+
+		1) next_wednesday from current date 
+		2) wednesday_of_week_in_year(week, year) for nth week in mth year
